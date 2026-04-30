@@ -1,0 +1,7 @@
+{
+  "truck": { "id": "truck-010", "maxWeightLbs": 20000, "maxVolumeCuft": 3000 },
+  "orders": [
+    { "id": "ord-001", "payoutCents": 250000, "weightLbs": 18000, "volumeCuft": 1200, "origin": "Los Angeles, CA", "destination": "Dallas, TX", "pickupDate": "2025-12-05", "deliveryDate": "2025-12-09", "isHazmat": false },
+    { "id": "ord-002", "payoutCents": 180000, "weightLbs": 15000, "volumeCuft": 900, "origin": "Los Angeles, CA", "destination": "Dallas, TX", "pickupDate": "2025-12-04", "deliveryDate": "2025-12-10", "isHazmat": false }
+  ]
+}

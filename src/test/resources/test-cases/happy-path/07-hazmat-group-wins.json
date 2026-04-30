@@ -1,0 +1,8 @@
+{
+  "truck": { "id": "truck-007", "maxWeightLbs": 44000, "maxVolumeCuft": 3000 },
+  "orders": [
+    { "id": "ord-001", "payoutCents": 100000, "weightLbs": 10000, "volumeCuft": 800, "origin": "Seattle, WA", "destination": "Portland, OR", "pickupDate": "2025-12-05", "deliveryDate": "2025-12-07", "isHazmat": false },
+    { "id": "ord-002", "payoutCents": 450000, "weightLbs": 25000, "volumeCuft": 1800, "origin": "Seattle, WA", "destination": "Portland, OR", "pickupDate": "2025-12-05", "deliveryDate": "2025-12-07", "isHazmat": true },
+    { "id": "ord-003", "payoutCents": 380000, "weightLbs": 15000, "volumeCuft": 1200, "origin": "Seattle, WA", "destination": "Portland, OR", "pickupDate": "2025-12-05", "deliveryDate": "2025-12-07", "isHazmat": true }
+  ]
+}

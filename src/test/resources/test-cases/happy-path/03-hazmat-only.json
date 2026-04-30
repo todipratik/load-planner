@@ -1,0 +1,7 @@
+{
+  "truck": { "id": "truck-003", "maxWeightLbs": 44000, "maxVolumeCuft": 3000 },
+  "orders": [
+    { "id": "ord-001", "payoutCents": 320000, "weightLbs": 20000, "volumeCuft": 1400, "origin": "Houston, TX", "destination": "Phoenix, AZ", "pickupDate": "2025-12-10", "deliveryDate": "2025-12-14", "isHazmat": true },
+    { "id": "ord-002", "payoutCents": 280000, "weightLbs": 15000, "volumeCuft": 1100, "origin": "Houston, TX", "destination": "Phoenix, AZ", "pickupDate": "2025-12-09", "deliveryDate": "2025-12-15", "isHazmat": true }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "truck": { "id": "truck-005", "maxWeightLbs": 44000, "maxVolumeCuft": 3000 },
+  "orders": [
+    { "id": "ord-001", "payoutCents": 150000, "weightLbs": 10000, "volumeCuft": 800, "origin": "Los Angeles, CA", "destination": "Dallas, TX", "pickupDate": "2025-12-05", "deliveryDate": "2025-12-09", "isHazmat": false },
+    { "id": "ord-002", "payoutCents": 120000, "weightLbs": 8000, "volumeCuft": 600, "origin": "Los Angeles, CA", "destination": "Dallas, TX", "pickupDate": "2025-12-04", "deliveryDate": "2025-12-10", "isHazmat": false },
+    { "id": "ord-003", "payoutCents": 400000, "weightLbs": 22000, "volumeCuft": 1500, "origin": "Chicago, IL", "destination": "Miami, FL", "pickupDate": "2025-12-06", "deliveryDate": "2025-12-10", "isHazmat": false },
+    { "id": "ord-004", "payoutCents": 350000, "weightLbs": 18000, "volumeCuft": 1200, "origin": "Chicago, IL", "destination": "Miami, FL", "pickupDate": "2025-12-05", "deliveryDate": "2025-12-11", "isHazmat": false }
+  ]
+}

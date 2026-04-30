@@ -1,0 +1,4 @@
+{
+  "truck": { "id": "truck-001", "maxWeightLbs": 44000, "maxVolumeCuft": 3000 },
+  "orders": []
+}
